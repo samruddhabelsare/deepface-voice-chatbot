@@ -28,7 +28,7 @@ The chatbot uses **Pico TTS** for text-to-speech and **Google Speech Recognition
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 1. **Face Detection:**  
    - Opens camera feed using OpenCV.  
    - DeepFace checks for faces every few frames.
@@ -44,7 +44,7 @@ The chatbot uses **Pico TTS** for text-to-speech and **Google Speech Recognition
 
 ---
 
-## 📦 Installation
+##  Installation
 
 # Install dependencies
 pip install opencv-python deepface SpeechRecognition scipy
